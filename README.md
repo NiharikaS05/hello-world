@@ -1,2 +1,2 @@
 # hello-world
-just atest case
+just a test case
